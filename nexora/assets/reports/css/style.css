@@ -1,0 +1,179 @@
+﻿/* ===== IMPORT FONT ===== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ===== BODY BACKGROUND ===== */
+html, body {
+    height: 100%;
+    background: radial-gradient(circle at 20% 20%, rgba(255,255,255,0.05), transparent 40%), radial-gradient(circle at 80% 30%, rgba(255,255,255,0.04), transparent 40%), radial-gradient(circle at 50% 80%, rgba(255,255,255,0.03), transparent 40%), linear-gradient(135deg, #0a0a0a, #151515, #0a0a0a);
+    color: #fff;
+}
+
+/* ===== GLASS BACKGROUND WRAPPER ===== */
+.glass-bg {
+    min-height: 100vh;
+    width: 100%;
+    padding: 30px 5%;
+    background: rgba(255,255,255,0.03);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-top: 1px solid rgba(255,255,255,0.08);
+    border-radius: 12px;
+}
+
+/* ===== FILTER SECTION ===== */
+.filter-section {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.filter-label {
+    color: #006666;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.filter-dropdown {
+    padding: 6px 12px;
+    border-radius: 6px;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.05);
+    color: #006666;
+    backdrop-filter: blur(1px);
+    -webkit-backdrop-filter: blur(1px);
+}
+
+/* ===== GLASS GRIDVIEW TABLE ===== */
+.glass-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 12px;
+    overflow: hidden;
+    color: #fff;
+}
+
+    .glass-table th, .glass-table td {
+        padding: 10px 12px;
+        border-bottom: 1px solid rgba(255,255,255,0.12);
+    }
+
+    .glass-table th {
+        background: rgba(255,255,255,0.08);
+        font-weight: 600;
+        text-align: left;
+    }
+
+    .glass-table tr:hover {
+        background: rgba(255,255,255,0.1);
+        transition: 0.3s;
+    }
+
+/* ===== RESPONSIVE TABLE ===== */
+@media (max-width:768px) {
+    .glass-table, .glass-table thead, .glass-table tbody, .glass-table th, .glass-table td, .glass-table tr {
+        display: block;
+    }
+
+        .glass-table tr {
+            margin-bottom: 15px;
+        }
+
+        .glass-table td {
+            text-align: right;
+            padding-left: 50%;
+            position: relative;
+        }
+
+            .glass-table td::before {
+                content: attr(data-label);
+                position: absolute;
+                left: 15px;
+                width: 45%;
+                padding-left: 10px;
+                font-weight: 600;
+                text-align: left;
+            }
+}
+
+
+/* ===== NAVBAR ===== */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 5%;
+    background: rgba(0,0,0,0.55);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+/* ===== LOGO ===== */
+.nav-logo {
+    font-size: 24px;
+    font-weight: 600;
+    
+}
+
+/* ===== NAV LINKS ===== */
+/* ===== NAV LINKS ===== */
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 18px;
+}
+
+.nav-links li a {
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 6px 16px;
+    border-radius: 20px;
+    text-decoration: none;
+    background: transparent; /* flat */
+    box-shadow: none; /* ❌ remove glow */
+    border: none; /* ❌ remove border */
+
+    transition: background 0.3s, color 0.3s;
+}
+
+    /* ===== HOVER (NO GLOW) ===== */
+.nav-links li a:hover {
+    background: rgba(255,255,255,0.10);
+    box-shadow: none;
+}
+
+/* ===== ACTIVE PAGE (NO GLOW) ===== */
+.nav-links li a.active {
+    background: rgba(255,255,255,0.18);
+    color: #ffffff;
+    box-shadow: none;
+}
+
+/* ===== LOGOUT BUTTON (NO BORDER, NO GLOW) ===== */
+.nav-links li a.logout {
+    background: rgba(255,0,0,0.30);
+    border: none;
+}
+
+.nav-links li a.logout:hover {
+    background: rgba(255,0,0,0.45);
+}
+
+

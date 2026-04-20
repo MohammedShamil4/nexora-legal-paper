@@ -1,0 +1,194 @@
+D:\sha-test\dotnet web application\nexora\nexora\bin\nexora.dll.config
+D:\sha-test\dotnet web application\nexora\nexora\bin\nexora.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\nexora.pdb
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\csc.exe
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\csc.exe.config
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\csc.rsp
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\csi.exe
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\csi.exe.config
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\csi.rsp
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.AppContext.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Collections.Immutable.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Console.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Globalization.Calendars.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.IO.Compression.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.IO.FileSystem.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Net.Http.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Net.Sockets.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Reflection.Metadata.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.ValueTuple.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Xml.XPath.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\vbc.exe
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\vbc.exe.config
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\vbc.rsp
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\VBCSCompiler.exe
+D:\sha-test\dotnet web application\nexora\nexora\bin\roslyn\VBCSCompiler.exe.config
+D:\sha-test\dotnet web application\nexora\nexora\bin\Antlr3.Runtime.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\AspNet.ScriptManager.bootstrap.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\AspNet.ScriptManager.jQuery.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.ScriptManager.WebForms.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.Web.Infrastructure.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Newtonsoft.Json.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Web.Optimization.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\WebGrease.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Web.Optimization.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\Newtonsoft.Json.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\Antlr3.Runtime.pdb
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sha-test\dotnet web application\nexora\nexora\obj\Debug\nexora.csproj.AssemblyReference.cache
+D:\sha-test\dotnet web application\nexora\nexora\obj\Debug\nexora.csproj.CoreCompileInputs.cache
+D:\sha-test\dotnet web application\nexora\nexora\obj\Debug\nexora.csproj.CopyComplete
+D:\sha-test\dotnet web application\nexora\nexora\obj\Debug\nexora.dll
+D:\sha-test\dotnet web application\nexora\nexora\obj\Debug\nexora.pdb
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Oracle.ManagedDataAccess.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Buffers.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Diagnostics.DiagnosticSource.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Formats.Asn1.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Memory.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Numerics.Vectors.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Text.Encodings.Web.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Text.Json.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Threading.Tasks.Extensions.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.ValueTuple.dll
+D:\sha-test\dotnet web application\nexora\nexora\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Buffers.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Diagnostics.DiagnosticSource.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Formats.Asn1.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Memory.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Numerics.Vectors.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Text.Encodings.Web.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Text.Json.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.Threading.Tasks.Extensions.xml
+D:\sha-test\dotnet web application\nexora\nexora\bin\System.ValueTuple.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\nexora.dll.config
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\nexora.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\nexora.pdb
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\csc.exe
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\csc.exe.config
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\csc.rsp
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\csi.exe
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\csi.exe.config
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\csi.rsp
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.AppContext.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Collections.Immutable.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Console.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Globalization.Calendars.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.IO.Compression.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.IO.FileSystem.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Net.Http.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Net.Sockets.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Reflection.Metadata.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.ValueTuple.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Xml.XPath.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\vbc.exe
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\vbc.exe.config
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\vbc.rsp
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\VBCSCompiler.exe
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\roslyn\VBCSCompiler.exe.config
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Antlr3.Runtime.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\AspNet.ScriptManager.bootstrap.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\AspNet.ScriptManager.jQuery.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.ScriptManager.WebForms.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.Web.Infrastructure.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Newtonsoft.Json.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Oracle.ManagedDataAccess.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Buffers.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Formats.Asn1.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Memory.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Numerics.Vectors.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Text.Encodings.Web.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Text.Json.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Threading.Tasks.Extensions.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.ValueTuple.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Web.Optimization.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\WebGrease.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Buffers.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Formats.Asn1.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Memory.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Numerics.Vectors.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Text.Encodings.Web.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Text.Json.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Threading.Tasks.Extensions.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.ValueTuple.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\System.Web.Optimization.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Newtonsoft.Json.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Antlr3.Runtime.pdb
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\obj\Debug\nexora.csproj.CoreCompileInputs.cache
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\obj\Debug\nexora.csproj.CopyComplete
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\obj\Debug\nexora.dll
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\obj\Debug\nexora.pdb
+D:\SHAMIL REPORTS BACKUP\DOT NET WEB APP\nexora\nexora\obj\Debug\nexora.csproj.AssemblyReference.cache
